@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Loving You Girl",
+  "base_artist": "Peder Elias",
+  "createdAt": "2026-03-19T14:46:22.195447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loving You Girl - Radio Edit",
+      "artist": "Opus X",
+      "has_synced": true,
+      "path": "select/01_Loving_You_Girl_-_Radio_Edit_Opus_X.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loving You Girl (feat. Hkeem)",
+      "artist": "Peder Elias feat. Hkeem",
+      "has_synced": true,
+      "path": "select/02_Loving_You_Girl_(feat._Hkeem)_Peder_Elias_feat._Hkeem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loving You Girl",
+      "artist": "Peder Elias",
+      "has_synced": true,
+      "path": "select/03_Loving_You_Girl_Peder_Elias.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Loving You Girl (feat. Hkeem)",
+      "artist": "Peder Elias",
+      "has_synced": true,
+      "path": "select/04_Loving_You_Girl_(feat._Hkeem)_Peder_Elias.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Loving You Girl",
+      "artist": "Peder Elias",
+      "has_synced": true,
+      "path": "select/05_Loving_You_Girl_Peder_Elias.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Loving You Girl (feat. Hkeem)",
+      "artist": "Peder Elias",
+      "has_synced": true,
+      "path": "select/06_Loving_You_Girl_(feat._Hkeem)_Peder_Elias.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loving You Girl",
+      "artist": "Peder Elias, Hkeem",
+      "has_synced": true,
+      "path": "select/07_Loving_You_Girl_Peder_Elias,_Hkeem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Loving You Girl",
+      "artist": "Peder Elias feat. Hkeem",
+      "has_synced": true,
+      "path": "select/08_Loving_You_Girl_Peder_Elias_feat._Hkeem.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Loving You Girl (合作演出：Hkeem)",
+      "artist": "Peder Elias",
+      "has_synced": true,
+      "path": "select/09_Loving_You_Girl_(合作演出_Hkeem)_Peder_Elias.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Peder Elias - Loving You Girl (Lyric Video) ft. Hkeem",
+      "artist": "Peder Elias",
+      "has_synced": true,
+      "path": "select/10_Peder_Elias_-_Loving_You_Girl_(Lyric_Video)_ft._Hkeem_Peder_Elias.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Peder Elias - Loving You Girl ft. Hkeem",
+      "artist": "Peder Elias",
+      "has_synced": true,
+      "path": "select/11_Peder_Elias_-_Loving_You_Girl_ft._Hkeem_Peder_Elias.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Loving You Girl (radio edit)",
+      "artist": "Opus X",
+      "has_synced": true,
+      "path": "select/12_Loving_You_Girl_(radio_edit)_Opus_X.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Loving You Girl",
+      "artist": "Opus X",
+      "has_synced": true,
+      "path": "select/13_Loving_You_Girl_Opus_X.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Loving Girl",
+      "artist": "Shocking Blue",
+      "has_synced": true,
+      "path": "select/14_Loving_Girl_Shocking_Blue.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Loving Girl",
+      "artist": "Shocking Blue",
+      "has_synced": false,
+      "path": "select/15_Loving_Girl_Shocking_Blue.txt"
+    }
+  ]
+}
